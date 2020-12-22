@@ -1,0 +1,1534 @@
+//KOTAK A
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-30,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20,-30);
+    glEnd();
+    glPopMatrix();
+
+    //A
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(255,255,255);
+    glTranslated(-30,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(2, 10);
+    glVertex2f(8,10);
+    glVertex2f(-5,-20);
+    glVertex2f(-10,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(255,255,255);
+    glTranslated(-30,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(2, 10);
+    glVertex2f(8,10);
+    glVertex2f(20,-20);
+    glVertex2f(14,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(255,255,255);
+    glTranslated(-30,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-4, -5);
+    glVertex2f(14,-5);
+    glVertex2f(14,-10);
+    glVertex2f(-4,-10);
+    glEnd();
+    glPopMatrix();
+
+    //KOTAK B
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-22,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20,-30);
+    glEnd();
+    glPopMatrix();
+
+    //B
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(255,255,255);
+    glTranslated(-22,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(0,10);
+    glVertex2f(-0,-20);
+    glVertex2f(-10,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(255,255,255);
+    glTranslated(-22,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(0,10);
+    glVertex2f(10,10);
+    glVertex2f(10,6);
+    glVertex2f(0,6);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(255,255,255);
+    glTranslated(-22,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(0,-1);
+    glVertex2f(10,-1);
+    glVertex2f(10,-4);
+    glVertex2f(0,-4);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(255,255,255);
+    glTranslated(-22,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(0,-4);
+    glVertex2f(12,-4);
+    glVertex2f(12,-8);
+    glVertex2f(0,-8);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(255,255,255);
+    glTranslated(-22,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(0,-17);
+    glVertex2f(12,-17);
+    glVertex2f(12,-20);
+    glVertex2f(0,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(255,255,255);
+    glTranslated(-22,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(10,10);
+    glVertex2f(17,10);
+    glVertex2f(18,8);
+    glVertex2f(18,-2);
+    glVertex2f(17,-4);
+    glVertex2f(10,-4);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(255,255,255);
+    glTranslated(-22,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(12,-4);
+    glVertex2f(17,-4);
+    glVertex2f(20,-6);
+    glVertex2f(20,-18);
+    glVertex2f(18,-20);
+    glVertex2f(12,-20);
+    glEnd();
+    glPopMatrix();
+
+    //KOTAK C
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-14,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20,-30);
+    glEnd();
+    glPopMatrix();
+
+    //C
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(255,255,255);
+    glTranslated(-14,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(0,10);
+    glVertex2f(-0,-20);
+    glVertex2f(-10,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(255,255,255);
+    glTranslated(-14,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(20,10);
+    glVertex2f(20,0);
+    glVertex2f(-10,0);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(255,255,255);
+    glTranslated(-14,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,-10);
+    glVertex2f(20,-10);
+    glVertex2f(20,-20);
+    glVertex2f(-10,-20);
+    glEnd();
+    glPopMatrix();
+
+    //KOTAK D
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-6,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20,-30);
+    glEnd();
+    glPopMatrix();
+
+    //D
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(255,255,255);
+    glTranslated(-6,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(0,10);
+    glVertex2f(-0,-20);
+    glVertex2f(-10,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(255,255,255);
+    glTranslated(-6,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(0,10);
+    glVertex2f(15,10);
+    glVertex2f(15,0);
+    glVertex2f(0,0);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(255,255,255);
+    glTranslated(-6,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(0,-10);
+    glVertex2f(15,-10);
+    glVertex2f(15,-20);
+    glVertex2f(0,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(255,255,255);
+    glTranslated(-6,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(15,10);
+    glVertex2f(20,5);
+    glVertex2f(20,-15);
+    glVertex2f(15,-20);					
+    glEnd();
+    glPopMatrix();
+
+    //KOTAK E
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(2,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20,-30);
+    glEnd();
+    glPopMatrix();
+
+    //E
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(2,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(0,10);
+    glVertex2f(0,-20);
+    glVertex2f(-10,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(2,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(20,10);
+    glVertex2f(19.93711, 4.09721);
+    glVertex2f(-10, 4);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(2,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10, -2);
+    glVertex2f(20, -2);
+    glVertex2f(20, -8);
+    glVertex2f(-10, -8);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(2,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10, -14);
+    glVertex2f(20, -14);
+    glVertex2f(20, -20);
+    glVertex2f(-10, -20);
+    glEnd();
+    glPopMatrix();
+
+    //KOTAK F
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(10,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20,-30);
+    glEnd();
+    glPopMatrix();
+
+    //F
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(10,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(0,10);
+    glVertex2f(0,-20);
+    glVertex2f(-10,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(10,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(20,10);
+    glVertex2f(20,3);
+    glVertex2f(-10,3);
+    glEnd();
+    glPopMatrix();
+
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(10,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,-3);
+    glVertex2f(20,-3);
+    glVertex2f(20,-10);
+    glVertex2f(-10,-10);
+    glEnd();
+    glPopMatrix();
+
+    //KOTAK G
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(18,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20,-30);
+    glEnd();
+    glPopMatrix();
+
+    //G
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(18,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(0,10);
+    glVertex2f(0,-20);
+    glVertex2f(-10,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(18,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(20,10);
+    glVertex2f(20,5);
+    glVertex2f(-10,5);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(18,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,-12);
+    glVertex2f(20,-12);
+    glVertex2f(20,-20);
+    glVertex2f(-10,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(18,35,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(5,-5);
+    glVertex2f(20,-5);
+    glVertex2f(20,-20);
+    glVertex2f(15,-20);
+    glEnd();
+    glPopMatrix();
+
+    //KOTAK H
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-14,25,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20,-30);
+    glEnd();
+    glPopMatrix();
+
+    //H
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(12,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(0,10);
+    glVertex2f(0,-20);
+    glVertex2f(-10,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(12,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,0);
+    glVertex2f(20,0);
+    glVertex2f(20,-10);
+    glVertex2f(-10,-10);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(12,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(10,10);
+    glVertex2f(20,10);
+    glVertex2f(20,-20);
+    glVertex2f(10,-20);
+    glEnd();
+    glPopMatrix();
+
+    //KOTAK I
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-14,25,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20,-30);
+    glEnd();
+    glPopMatrix();
+
+     //I
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(1.5,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(0,10);
+    glVertex2f(10,10);
+    glVertex2f(10,-20);
+    glVertex2f(0,-20);
+    glEnd();
+    glPopMatrix();
+
+    //KOTAK J
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-14,25,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20,-30);
+    glEnd();
+    glPopMatrix();
+
+    //J
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-14,25,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(10,10);
+    glVertex2f(10,-20);
+    glVertex2f(-10,-20);
+    glVertex2f(-10,-10);
+    glVertex2f(0,-10);
+    glEnd();
+    glPopMatrix();
+
+    //KOTAK K
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-14,25,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20,-30);
+    glEnd();
+    glPopMatrix();
+
+    //K
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-14,25,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(0,10);
+    glVertex2f(0,-20);
+    glVertex2f(-10,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-14,25,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(10,10);
+    glVertex2f(-10,-10);
+    glVertex2f(0,10);
+    glVertex2f(20,10);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-14,25,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(20,10);
+    glVertex2f(10,-20);
+    glVertex2f(-10,0);
+    glEnd();
+    glPopMatrix();
+
+    //KOTAK L
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-14,25,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20,-30);
+    glEnd();
+    glPopMatrix();
+
+     //L
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-30,24,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(0,10);
+    glVertex2f(0,-20);
+    glVertex2f(-10,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-30,24,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(0,-10);
+    glVertex2f(20,-10);
+    glVertex2f(20,-20);
+    glVertex2f(0,-20);
+    glEnd();
+    glPopMatrix();
+
+    //KOTAK M
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-14,25,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20,-30);
+    glEnd();
+    glPopMatrix();
+
+    //M
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-14,25,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(0,10);
+    glVertex2f(0,-20);
+    glVertex2f(-10,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-14,25,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(20,10);
+    glVertex2f(30,10);
+    glVertex2f(30,-20);
+    glVertex2f(20,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-14,25,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(0,10);
+    glVertex2f(10,0);
+    glVertex2f(20,10);
+    glVertex2f(30,10);
+    glVertex2f(10,-10);
+    glVertex2f(-10,10);
+    glEnd();
+    glPopMatrix();
+
+    //KOTAK N
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-14,25,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20,-30);
+    glEnd();
+    glPopMatrix();
+
+    //N
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-14,25,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(0,10);
+    glVertex2f(0,-20);
+    glVertex2f(-10,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-14,25,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(20,10);
+    glVertex2f(30,10);
+    glVertex2f(30,-20);
+    glVertex2f(20,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-14,25,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(0,10);
+    glVertex2f(10,0);
+    glVertex2f(30,20);
+    glVertex2f(20,-20);
+    glVertex2f(-10,10);
+    glEnd();
+    glPopMatrix();
+
+    //KOTAK O
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-35,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20, -30);
+    glEnd();
+    glPopMatrix();
+
+
+    //O
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-35,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(20,10);
+    glVertex2f(20,0);
+    glVertex2f(-10,0);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-35,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(-10,-20);
+    glVertex2f(0,-20);
+    glVertex2f(0,10);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-35,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(10,10);
+    glVertex2f(10,-20);
+    glVertex2f(20,-20);
+    glVertex2f(20,10);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-35,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,-10);
+    glVertex2f(20,-10);
+    glVertex2f(20,-20);
+    glVertex2f(-10,-20);
+    glEnd();
+    glPopMatrix();
+
+
+    //KOTAK p
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-25,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20,-30);
+    glEnd();
+    glPopMatrix();
+
+    //P
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-25,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10, 10);
+    glVertex2f(0,10);
+    glVertex2f(0,-20);
+    glVertex2f(-10,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-25,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-0, 10);
+    glVertex2f(10,10);
+    glVertex2f(10,4);
+    glVertex2f(0,4);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-25,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(10,10);
+    glVertex2f(20,10);
+    glVertex2f(20,-10);
+    glVertex2f(10,-10);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-25,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(0,-5);
+    glVertex2f(10,-5);
+    glVertex2f(10,-10);
+    glVertex2f(0,-10);
+    glEnd();
+    glPopMatrix();
+
+    //KOTAK R
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-5,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20,-30);
+    glEnd();
+    glPopMatrix();
+
+    //R
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-5,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10, 15);
+    glVertex2f(20,15);
+    glVertex2f(20,6);
+    glVertex2f(-10,6);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-5,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10, 15);
+    glVertex2f(0,15);
+    glVertex2f(0,-25);
+    glVertex2f(-10,-25);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-5,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(0,-2);
+    glVertex2f(10,-2);
+    glVertex2f(10,-8);
+    glVertex2f(0,-8);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-5,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(10,15);
+    glVertex2f(20,15);
+    glVertex2f(20,-2);
+    glVertex2f(10,-2);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-5,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(20,-10);
+    glVertex2f(20,-25);
+    glVertex2f(10,-25);
+    glVertex2f(10,10);
+    glEnd();
+    glPopMatrix();
+
+      //KOTAK Q
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-15,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20, -30);
+    glEnd();
+    glPopMatrix();
+
+
+    //Q
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-15,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(20,10);
+    glVertex2f(20,0);
+    glVertex2f(-10,0);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-15,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(-10,-20);
+    glVertex2f(0,-20);
+    glVertex2f(0,10);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-15,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(10,10);
+    glVertex2f(10,-20);
+    glVertex2f(20,-20);
+    glVertex2f(20,10);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-15,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,-10);
+    glVertex2f(20,-10);
+    glVertex2f(20,-20);
+    glVertex2f(-10,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-15,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(25,-20);
+    glVertex2f(15,-25);
+    glVertex2f(2.1,-10);
+    glVertex2f(10,-2);
+    glEnd();
+    glPopMatrix();
+
+      //KOTAK S
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-5,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20, -30);
+    glEnd();
+    glPopMatrix();
+
+
+    //S
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-5,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(20,10);
+    glVertex2f(20,5);
+    glVertex2f(-10,5);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-5,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(-4,10);
+    glVertex2f(-4,-4);
+    glVertex2f(-10,-4);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-5,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,-4);
+    glVertex2f(20,-4);
+    glVertex2f(20,-10);
+    glVertex2f(-10,-10);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-5,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(20,-5);
+    glVertex2f(15,-5);
+    glVertex2f(15,-25);
+    glVertex2f(20,-25);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-5,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(20,-20);
+    glVertex2f(20,-25);
+    glVertex2f(-10,-25);
+    glVertex2f(-10,-20);
+    glEnd();
+    glPopMatrix();
+
+     //KOTAK T
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(5,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20, -30);
+    glEnd();
+    glPopMatrix();
+
+
+    //T
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(5,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(20,10);
+    glVertex2f(20,0);
+    glVertex2f(-10,0);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(5,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(10,10);
+    glVertex2f(10,-20);
+    glVertex2f(0,-20);
+    glVertex2f(0,10);
+    glEnd();
+    glPopMatrix();
+
+   //KOTAK U
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(15,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20, -30);
+    glEnd();
+    glPopMatrix();
+
+
+    //U
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(15,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(0,10);
+    glVertex2f(0,-20);
+    glVertex2f(-10,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(15,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,-10);
+    glVertex2f(20,-10);
+    glVertex2f(20,-20);
+    glVertex2f(-10,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(15,35,0);
+    glScaled(0.2,0.2,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(10,10);
+    glVertex2f(20,10);
+    glVertex2f(20,-20);
+    glVertex2f(10,-20);
+    glEnd();
+    glPopMatrix();
+
+
+        //KOTAK V
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-9,24,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20,-30);
+    glEnd();
+    glPopMatrix();
+
+    //V
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-9,24,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(0,10);
+    glVertex2f(10,-20);
+    glVertex2f(0,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-9,24,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(10,10);
+    glVertex2f(20,10);
+    glVertex2f(10,-20);
+    glVertex2f(0,-20);
+    glEnd();
+    glPopMatrix();
+
+    glFlush();
+
+     //KOTAK W
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-9,24,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20,-30);
+    glEnd();
+    glPopMatrix();
+
+    //W
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-9,24,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-14.5187488841459,9.728657678198);
+    glVertex2f(-4.655759182811,9.8737016443941);
+    glVertex2f(-10,-20);
+    glVertex2f(0,-20);
+    glEnd();
+    glPopMatrix()
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-9,24,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(0,0);
+    glVertex2f(-10,-20);
+    glVertex2f(0,-20);
+    glVertex2f(10,0);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-9,24,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(0,0);
+    glVertex2f(10,0);
+    glVertex2f(10,-20);
+    glVertex2f(20,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-9,24,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(15.7954400508391,9.8737016443941);
+    glVertex2f(25.3683418197818,9.728657678198);
+    glVertex2f(10,-20);
+    glVertex2f(20,-20);
+    glEnd();
+    glPopMatrix();
+    glFlush();
+
+    //KOTAK X
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-9,24,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20,-30);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-9,24,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(0,10);
+    glVertex2f(10,-20);
+    glVertex2f(20,-20);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-9,24,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(10,10);
+    glVertex2f(20,10);
+    glVertex2f(-10,-20);
+    glVertex2f(0,-20);
+    glEnd();
+    glPopMatrix();
+    glFlush();
+
+    //KOTAK Y
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-9,24,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20,-30);
+    glEnd();
+    glPopMatrix();
+
+    //Y
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-9,24,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(0,10);
+    glVertex2f(4.4628468692574,-4.7718337134828);
+    glVertex2f(0,-10);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-9,24,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(10,10);
+    glVertex2f(20,10);
+    glVertex2f(4.4628468692574,-4.7718337134828)
+    glVertex2f(10,-10);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-9,24,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(0,-10);
+    glVertex2f(0,-24.7459265598297);
+    glVertex2f(9.9962104280427,-24.7459265598297);
+    glVertex2f(10,-10);
+    glEnd();
+    glPopMatrix();
+    glFlush();
+
+    //KOTAK Z
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(153,51,0);
+    glTranslated(-9,24,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-20,20);
+    glVertex2f(30,20);
+    glVertex2f(30,-30);
+    glVertex2f(-20,-30);
+    glEnd();
+    glPopMatrix();
+
+    //Z
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-9,24,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,10);
+    glVertex2f(20,10);
+    glVertex2f(-10.1028094927547,3.7953448504197);
+    glVertex2f(13.3314933190696,3.429183868985);
+    glVertex2f(19.7393104941778,3.0630228875502);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-9,24,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(20,10);
+    glVertex2f(13.3314933190696,3.429183868985);
+    glVertex2f(19.7393104941778,3.0630228875502);
+    glVertex2f(-10,-20);
+    glVertex2f(-2.0472679011901,-19.6389579614046);
+    glVertex2f(-9.9197290020374,-26.5960166086649);
+    glEnd();
+    glPopMatrix();
+
+    glPushMatrix();
+    glPointSize(5);
+    glColor3ub(245,245,220);
+    glTranslated(-9,24,0);
+    glScaled(0.15,0.15,0);
+    glBegin(GL_POLYGON);
+    glVertex2f(-10,-20);
+    glVertex2f(-2.0472679011901,-19.6389579614046);
+    glVertex2f(20,-20);
+    glVertex2f(-9.9197290020374,-26.5960166086649);
+    glVertex2f(19.9223909848952,-26.5960166086649);
+    glEnd();
+    glPopMatrix();
+    glFlush();
